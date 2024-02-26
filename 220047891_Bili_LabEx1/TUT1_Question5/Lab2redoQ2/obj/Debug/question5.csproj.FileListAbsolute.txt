@@ -1,0 +1,10 @@
+C:\Users\Siphamandla Bili\Downloads\TUT1_Question5\Lab2redoQ2\bin\Debug\Lab2redoQ2.exe.config
+C:\Users\Siphamandla Bili\Downloads\TUT1_Question5\Lab2redoQ2\bin\Debug\Lab2redoQ2.exe
+C:\Users\Siphamandla Bili\Downloads\TUT1_Question5\Lab2redoQ2\bin\Debug\Lab2redoQ2.pdb
+C:\Users\Siphamandla Bili\Downloads\TUT1_Question5\Lab2redoQ2\obj\Debug\question5.csproj.AssemblyReference.cache
+C:\Users\Siphamandla Bili\Downloads\TUT1_Question5\Lab2redoQ2\obj\Debug\Lab2redoQ2.Form1.resources
+C:\Users\Siphamandla Bili\Downloads\TUT1_Question5\Lab2redoQ2\obj\Debug\Lab2redoQ2.Properties.Resources.resources
+C:\Users\Siphamandla Bili\Downloads\TUT1_Question5\Lab2redoQ2\obj\Debug\question5.csproj.GenerateResource.cache
+C:\Users\Siphamandla Bili\Downloads\TUT1_Question5\Lab2redoQ2\obj\Debug\question5.csproj.CoreCompileInputs.cache
+C:\Users\Siphamandla Bili\Downloads\TUT1_Question5\Lab2redoQ2\obj\Debug\Lab2redoQ2.exe
+C:\Users\Siphamandla Bili\Downloads\TUT1_Question5\Lab2redoQ2\obj\Debug\Lab2redoQ2.pdb

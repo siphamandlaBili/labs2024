@@ -1,0 +1,10 @@
+C:\Users\kwane\OneDrive\Desktop\DSW PROJECT\Lab2redoQ2\Lab2redoQ2\bin\Debug\Lab2redoQ2.exe.config
+C:\Users\kwane\OneDrive\Desktop\DSW PROJECT\Lab2redoQ2\Lab2redoQ2\bin\Debug\Lab2redoQ2.exe
+C:\Users\kwane\OneDrive\Desktop\DSW PROJECT\Lab2redoQ2\Lab2redoQ2\bin\Debug\Lab2redoQ2.pdb
+C:\Users\kwane\OneDrive\Desktop\DSW PROJECT\Lab2redoQ2\Lab2redoQ2\obj\Debug\Lab2redoQ2.csproj.AssemblyReference.cache
+C:\Users\kwane\OneDrive\Desktop\DSW PROJECT\Lab2redoQ2\Lab2redoQ2\obj\Debug\Lab2redoQ2.Form1.resources
+C:\Users\kwane\OneDrive\Desktop\DSW PROJECT\Lab2redoQ2\Lab2redoQ2\obj\Debug\Lab2redoQ2.Properties.Resources.resources
+C:\Users\kwane\OneDrive\Desktop\DSW PROJECT\Lab2redoQ2\Lab2redoQ2\obj\Debug\Lab2redoQ2.csproj.GenerateResource.cache
+C:\Users\kwane\OneDrive\Desktop\DSW PROJECT\Lab2redoQ2\Lab2redoQ2\obj\Debug\Lab2redoQ2.csproj.CoreCompileInputs.cache
+C:\Users\kwane\OneDrive\Desktop\DSW PROJECT\Lab2redoQ2\Lab2redoQ2\obj\Debug\Lab2redoQ2.exe
+C:\Users\kwane\OneDrive\Desktop\DSW PROJECT\Lab2redoQ2\Lab2redoQ2\obj\Debug\Lab2redoQ2.pdb

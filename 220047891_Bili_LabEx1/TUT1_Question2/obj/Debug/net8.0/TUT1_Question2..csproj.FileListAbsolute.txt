@@ -1,0 +1,14 @@
+C:\Users\Siphamandla Bili\Desktop\220047891_Bili_LabEx1\TUT1_Question2\bin\Debug\net8.0\TUT1_Question2..exe
+C:\Users\Siphamandla Bili\Desktop\220047891_Bili_LabEx1\TUT1_Question2\bin\Debug\net8.0\TUT1_Question2..deps.json
+C:\Users\Siphamandla Bili\Desktop\220047891_Bili_LabEx1\TUT1_Question2\bin\Debug\net8.0\TUT1_Question2..runtimeconfig.json
+C:\Users\Siphamandla Bili\Desktop\220047891_Bili_LabEx1\TUT1_Question2\bin\Debug\net8.0\TUT1_Question2..dll
+C:\Users\Siphamandla Bili\Desktop\220047891_Bili_LabEx1\TUT1_Question2\bin\Debug\net8.0\TUT1_Question2..pdb
+C:\Users\Siphamandla Bili\Desktop\220047891_Bili_LabEx1\TUT1_Question2\obj\Debug\net8.0\TUT1_Question2..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Siphamandla Bili\Desktop\220047891_Bili_LabEx1\TUT1_Question2\obj\Debug\net8.0\TUT1_Question2..AssemblyInfoInputs.cache
+C:\Users\Siphamandla Bili\Desktop\220047891_Bili_LabEx1\TUT1_Question2\obj\Debug\net8.0\TUT1_Question2..AssemblyInfo.cs
+C:\Users\Siphamandla Bili\Desktop\220047891_Bili_LabEx1\TUT1_Question2\obj\Debug\net8.0\TUT1_Question2..csproj.CoreCompileInputs.cache
+C:\Users\Siphamandla Bili\Desktop\220047891_Bili_LabEx1\TUT1_Question2\obj\Debug\net8.0\TUT1_Question2..dll
+C:\Users\Siphamandla Bili\Desktop\220047891_Bili_LabEx1\TUT1_Question2\obj\Debug\net8.0\refint\TUT1_Question2..dll
+C:\Users\Siphamandla Bili\Desktop\220047891_Bili_LabEx1\TUT1_Question2\obj\Debug\net8.0\TUT1_Question2..pdb
+C:\Users\Siphamandla Bili\Desktop\220047891_Bili_LabEx1\TUT1_Question2\obj\Debug\net8.0\TUT1_Question2..genruntimeconfig.cache
+C:\Users\Siphamandla Bili\Desktop\220047891_Bili_LabEx1\TUT1_Question2\obj\Debug\net8.0\ref\TUT1_Question2..dll

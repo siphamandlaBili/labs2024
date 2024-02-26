@@ -1,0 +1,10 @@
+C:\Users\Siphamandla Bili\Desktop\220047891_Bili_LabEx1\TUT1_Question3\bin\Debug\TUT1_Question3.exe.config
+C:\Users\Siphamandla Bili\Desktop\220047891_Bili_LabEx1\TUT1_Question3\bin\Debug\TUT1_Question3.exe
+C:\Users\Siphamandla Bili\Desktop\220047891_Bili_LabEx1\TUT1_Question3\bin\Debug\TUT1_Question3.pdb
+C:\Users\Siphamandla Bili\Desktop\220047891_Bili_LabEx1\TUT1_Question3\obj\Debug\TUT1_Question3.csproj.AssemblyReference.cache
+C:\Users\Siphamandla Bili\Desktop\220047891_Bili_LabEx1\TUT1_Question3\obj\Debug\TUT1_Question3.Form1.resources
+C:\Users\Siphamandla Bili\Desktop\220047891_Bili_LabEx1\TUT1_Question3\obj\Debug\TUT1_Question3.Properties.Resources.resources
+C:\Users\Siphamandla Bili\Desktop\220047891_Bili_LabEx1\TUT1_Question3\obj\Debug\TUT1_Question3.csproj.GenerateResource.cache
+C:\Users\Siphamandla Bili\Desktop\220047891_Bili_LabEx1\TUT1_Question3\obj\Debug\TUT1_Question3.csproj.CoreCompileInputs.cache
+C:\Users\Siphamandla Bili\Desktop\220047891_Bili_LabEx1\TUT1_Question3\obj\Debug\TUT1_Question3.exe
+C:\Users\Siphamandla Bili\Desktop\220047891_Bili_LabEx1\TUT1_Question3\obj\Debug\TUT1_Question3.pdb
