@@ -1,0 +1,21 @@
+student number: 222222222 Assignment: 23 Test: 55 Exam: 55 Final Mark :48,6
+student number: 222222222 Assignment: 23 Test: 55 Exam: 55 Final Mark :48,6
+student number: 222222222 Assignment: 23 Test: 55 Exam: 55 Final Mark :48,6
+student number: 222222222 Assignment: 23 Test: 55 Exam: 55 Final Mark :48,6
+student number: 222222222 Assignment: 23 Test: 55 Exam: 55 Final Mark :48,6
+student number: 23456789 Assignment: 23 Test: 54 Exam: 123 Final Mark :82,3
+student number: 1111111111111 Assignment: 12 Test: 32 Exam: 54 Final Mark :39
+student number: 1111111111 Assignment: 12 Test: 32 Exam: 54 Final Mark :39
+student number: 1111111111 Assignment: 12 Test: 32 Exam: 54 Final Mark :39
+student number: 1111111111 Assignment: 12 Test: 32 Exam: 54 Final Mark :39
+student number: 1111111111 Assignment: 12 Test: 32 Exam: 54 Final Mark :39
+student number: 1111111111 Assignment: 12 Test: 32 Exam: 54 Final Mark :39
+student number: 123455432 Assignment: 12 Test: 32 Exam: 232 Final Mark :128
+student number: 1 Assignment: 50 Test: 100 Exam: 25 Final Mark :52,5no
+student number: 12 Assignment: 23 Test: 33 Exam: 46 Final Mark :37,5 no 37,5
+student number: 543243 Assignment: 43 Test: 56 Exam: 75 Final Mark :62,9 no Question2.Student
+student number: 12345433333333333 Assignment: 34 Test: 65 Exam: 65 Final Mark :58,8 no 
+student number: 123456 Assignment: 1234 Test: 1234 Exam: 1234 Final Mark :1234 no Question2.Student
+student number: 123456 Assignment: 123456 Test: 12345 Exam: 32323 Final Mark :44556,2 no Question2.Student
+student number:  Assignment: 0 Test: 0 Exam: 0 Final Mark : no Question2.Student
+student number: 6543 Assignment: 23 Test: 54 Exam: 23 Final Mark :32,3 no Question2.Student
